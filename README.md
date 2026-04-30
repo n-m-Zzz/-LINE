@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>男性コンディション診断</title>
+    <title>男性コンディション診断｜無料タイプ診断</title>
     <meta property="og:title" content="男性コンディション診断｜無料タイプ診断">
     <meta property="og:description" content="あなたのコンディションタイプを正しく把握するための2分診断。LINEで無料実施中。">
     <meta name="twitter:card" content="summary_large_image">
